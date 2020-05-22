@@ -32,7 +32,7 @@ function buildFilter(dataFilter) {
 
     tbody.html("");
     dataFilter.forEach((sighting) => {
-        var row = tbody.append("tr");
+        tbody.append("tr");
         Object.entries(sighting).forEach(([key, value]) => {
             var cell = tbody.append("td");
             cell.text(value);
