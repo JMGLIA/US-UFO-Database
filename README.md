@@ -1,2 +1,4 @@
-# javascript-challenge
-https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/GWU-ARL-DATA-PT-12-2019-U-C/tree/master/02-Homework/14-Intro-To-JavaScript/Instructions
+UFO Database
+
+A website that displays a database of UFO sighting in the month of January, 2011. You're able to filter the database by date to see what sightings occured on that date.
+
